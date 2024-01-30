@@ -1,0 +1,23 @@
+name: GEOParser
+channels:
+  - defaults
+  - conda-forge
+  - bioconda
+dependencies:
+  - python>=3
+  - asgiref
+  - beautifulsoup4
+  - certifi
+  - configparser
+  - future
+  - h5py
+  - numpy
+  - pandas
+  - pyyaml
+  - Pillow
+  - python-dateutil
+  - pytz
+  - soupsieve
+  - unicodecsv
+  - xlrd
+  - xlwt
